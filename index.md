@@ -21,5 +21,9 @@
 ## Almer Companion-iOS:
 
 ## Remote Assitence-device:
+* When shutting down a device the device will still apear as online for 90 seconds
+* Sometimes device apears as unreachable
+
+    **Workaround**: Restart your device and wait 90 secconds before caling
 
 ## Remote Assitence-web:
