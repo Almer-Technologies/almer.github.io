@@ -21,4 +21,4 @@
 
     **Workaround**: Restart your device and wait 90 secconds before calling
 
-## Remote Assitence-web:
+## Remote Assitance-web:
